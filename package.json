@@ -1,0 +1,21 @@
+{
+    "name": "dark-plus-plus",
+    "displayName": "Dark++",
+    "description": "Dark+ with a focus on Go",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark++",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark++-color-theme.json"
+            }
+        ]
+    }
+}
